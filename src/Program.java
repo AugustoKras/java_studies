@@ -2,7 +2,7 @@
 // The program will print the name, price and quantity of the product.
 // The program will also print the total value of the product.
 // The program will ask to user to enter the quantity of product to add.
-// The
+
 package src;
 
 import java.util.Locale;

@@ -12,6 +12,7 @@ Welcome to the Awesome Java Project! This project aims to provide a comprehensiv
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Exercises](#Exercises)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
@@ -28,5 +29,16 @@ The Awesome Java Project is designed to simplify product management tasks. It pr
 
 ## Getting Started
 To get started with the Awesome Java Project, follow these steps:
+
+## Exercises
+- **Program**
+*: This program ask to user to enter the name, price and quantity of a product.
+The program will print the name, price and quantity of the product.
+The program will also print the total value of the product.
+The program will ask to user to enter the quantity of product to add.*
+- **Program2**
+- **Program3**
+- **Program4**
+- **Program5**
 
 1. Clone the repository:

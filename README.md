@@ -13,32 +13,32 @@ Welcome to the Awesome Java Project! This project aims to provide a comprehensiv
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Exercises](#Exercises)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Introduction
-The Awesome Java Project is designed to simplify product management tasks. It provides a set of classes and functionalities to handle products efficiently. Whether you're building an e-commerce platform or simply need to manage products in your application, this project has got you covered!
+## Introduction :coffee:
+This repository is dedicated to the comprehensive study of the Java language and its various functions. Within its contents, you will find a collection of exercises carefully curated from multiple esteemed educators, allowing me to engage in a structured and comprehensive learning journey.
 
 ## Features
-- Create, update, and delete products
-- Retrieve product details by ID or search by name
-- Calculate prices, discounts, and taxes accurately
-- Generate reports and summaries for products
+
 
 ## Getting Started
-To get started with the Awesome Java Project, follow these steps:
+I specifically opted for the IntelliJ IDE due to its unparalleled suitability for Java programming. However, it's important to note that you have the freedom to choose alternative IDEs such as VsCode or any other, and in fact, you can even employ a basic text editor like Notepad if you prefer.
 
-## Exercises :construction:
-- :books:**Program**
+## Exercises :construction: (In Construction)
+- :books:[**Program**](src/program.java)
 *: This program ask to user to enter the name, price and quantity of a product.
 The program will print the name, price and quantity of the product.
 The program will also print the total value of the product.
 The program will ask to user to enter the quantity of product to add.*
-- **Program2**
-- **Program3**
-- **Program4**
-- **Program5**
-
+- :books:[**Program2**](src/program2.java)
+*:This program will as to user enter a radius and the program will calculate the circumference and volume of the circle.*
+- :books:[**Program3**](src/program3.java)
+*:This program receives account information from the user and holder and asks for the initial deposit*
+- :books:[**Program4**](src/program4.java)
+*:This program will ask to user to enter a number and the program will show the negative numbers*
+- :books:[**Program5**](src/program5.java)
+*:this program ask to user to enter how many rooms will be rented and insert name,email,room number and after this print in screen the number of busy rooms with information*
+- :books:[**Program6**](src/program6.java) (:black_heart: more difficult)
+*:This program ask how many employees will be registered and ask to input the id, name and salary of each employee. Ask you to enter the employ id that will have salary increase.*
+- :books:[**Program7**](src/program7.java)
+*:
 1. Clone the repository:

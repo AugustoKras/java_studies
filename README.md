@@ -30,8 +30,8 @@ The Awesome Java Project is designed to simplify product management tasks. It pr
 ## Getting Started
 To get started with the Awesome Java Project, follow these steps:
 
-## Exercises
-- **Program**
+## Exercises :construction:
+- :books:**Program**
 *: This program ask to user to enter the name, price and quantity of a product.
 The program will print the name, price and quantity of the product.
 The program will also print the total value of the product.

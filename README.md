@@ -35,11 +35,12 @@ The program will ask to user to enter the quantity of product to add.*
 *:This program ask how many employees will be registered and ask to input the id, name and salary of each employee. Ask you to enter the employ id that will have salary increase.*
 - :books:[**Program7**](src/Program7.java)
 *:This program is an example to how to work with matrixs*
-- :books:[**Program8**](src/Program8.java)
-*:This program show a basic structure of a enumeration :anger:(enum) and how it works.*
-- :books:[**Program9**](src/Program9.java)
-*:
-- :books:[**Program10**](src/Program10.java)
-*:
+
 
 ## Exercises II :construction: (In Construction) :racing_car: :dash:
+- :books:[**Program8**](src/Program8.java)
+  *:This program show a basic structure of a enumeration :anger:(enum) and how it works.*
+- :books:[**Program9**](src/Program9.java)
+  *:
+- :books:[**Program10**](src/Program10.java)
+  *:

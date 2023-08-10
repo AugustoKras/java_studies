@@ -1,13 +1,6 @@
 # java_studies - :monocle_face:
 This repository have a studies purposes...
 
-# Awesome Java Project
-
-[![Build Status](https://img.shields.io/travis/your-username/awesome-java-project.svg)](https://travis-ci.org/your-username/awesome-java-project)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-Welcome to the Awesome Java Project! This project aims to provide a comprehensive solution for managing products using Java.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -18,8 +11,8 @@ Welcome to the Awesome Java Project! This project aims to provide a comprehensiv
 This repository is dedicated to the comprehensive study of the Java language and its various functions. Within its contents, you will find a collection of exercises carefully curated from multiple esteemed educators, allowing me to engage in a structured and comprehensive learning journey.
 
 ## Features
-*Exercises I -  Basic exercises such as inputting data and identifying negative or positive numbers, basic mathematical calculations, working with arrays, vectors and matrices*
-*Exercises II - :construction:  In Construction*
+- *Exercises I -  Basic exercises such as inputting data and identifying negative or positive numbers, basic mathematical calculations, working with arrays, vectors and matrices*
+- *Exercises II - :construction:  In Construction*
 
 ## Getting Started
 I specifically opted for the IntelliJ IDE due to its unparalleled suitability for Java programming. However, it's important to note that you have the freedom to choose alternative IDEs such as VsCode or any other, and in fact, you can even employ a basic text editor like Notepad if you prefer.
@@ -43,7 +36,7 @@ The program will ask to user to enter the quantity of product to add.*
 - :books:[**Program7**](src/Program7.java)
 *:This program is an example to how to work with matrixs*
 - :books:[**Program8**](src/Program8.java)
-*:
+*:This program show a basic structure of a enumeration :anger:(enum) and how it works.*
 - :books:[**Program9**](src/Program9.java)
 *:
 - :books:[**Program10**](src/Program10.java)

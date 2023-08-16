@@ -13,6 +13,7 @@ This repository is dedicated to the comprehensive study of the Java language and
 ## Features
 - *Exercises I -  Basic exercises such as inputting data and identifying negative or positive numbers, basic mathematical calculations, working with arrays, vectors and matrices*
 - *Exercises II - :construction:  In Construction*
+- *Diagrams - UML diagrams to exercises*
 
 ## Getting Started
 I specifically opted for the IntelliJ IDE due to its unparalleled suitability for Java programming. However, it's important to note that you have the freedom to choose alternative IDEs such as VsCode or any other, and in fact, you can even employ a basic text editor like Notepad if you prefer.
@@ -36,17 +37,18 @@ The program will ask to user to enter the quantity of product to add.*
 - :books:[**Program7**](src/Program7.java)
 *:This program is an example to how to work with matrixs*
 - :books:[**Program8**](src/Program8.java)
-  *:This program show a basic structure of a enumeration :anger:(enum) and how it works.*
+*:This program show a basic structure of a enumeration :anger:(enum) and how it works.*
 
 ## Exercises II :construction: (In Construction) :racing_car: :dash:
 - :books:[**Program9**](src/Program9.java)
-  *:Read data for a worker with N contracts (N user-supplied). Then, ask the user for a month and show the employee's salary in that month*
+*:Read data for a worker with N contracts (N user-supplied). Then, ask the user for a month and show the employee's salary in that month*
 - :books:[**Program10**](src/Program10.java)
-  *:This program is related to polimorfism and inheritance and it contains @overrite methods.*
+*:This program is related to polimorfism and inheritance and it contains @overrite methods.*
 - :books:[**Program11**](src/Program11.java)
+*:
+
+## Diagrams :clipboard:
 
 
-## Diagram
-
-- ![myImage](https://github.com/AugustoKras/java_studies/blob/Augusto/src/domain-model.png)
-- <img src="https://github.com/AugustoKras/java_studies/blob/Augusto/src/domain-model.png"  width="300" height="200">
+- <img src="https://github.com/AugustoKras/java_studies/blob/Augusto/src/diagrams/domain-model.png"  width="300" height="200">
+*: For exercise Program11*

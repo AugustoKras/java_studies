@@ -42,5 +42,11 @@ The program will ask to user to enter the quantity of product to add.*
 - :books:[**Program9**](src/Program9.java)
   *:Read data for a worker with N contracts (N user-supplied). Then, ask the user for a month and show the employee's salary in that month*
 - :books:[**Program10**](src/Program10.java)
-  *:This program is related to polimorfism and inheritance and it contains @overrite methods.
+  *:This program is related to polimorfism and inheritance and it contains @overrite methods.*
 - :books:[**Program11**](src/Program11.java)
+
+
+## Diagram
+
+- ![myImage](https://github.com/AugustoKras/java_studies/blob/Augusto/src/domain-model.png)
+- <img src="https://github.com/AugustoKras/java_studies/blob/Augusto/src/domain-model.png"  width="300" height="200">
